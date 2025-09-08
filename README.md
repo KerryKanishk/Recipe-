@@ -1,1 +1,1 @@
-# Recipe-
+# Recipe: This is going to be my first html project combined with Git and GitHub Basics. gut 
